@@ -49,12 +49,9 @@ input:focus, textarea:focus{
 
 /* fatemeh */
 
-img {
-    border: solid 14px #015FC9;
-}
-
 .card-tools-img {
     width: 100px;
+    border: solid 14px #015FC9;
 }
 
 .box-alignment {
