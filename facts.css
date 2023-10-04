@@ -1,0 +1,29 @@
+.second-half{
+    /* background-color: #696E77; */
+    /* background: #6c757d; */
+    background-color: rgba(213, 222, 230, 1);
+}
+.font-change{ 
+    /* this property is for button */
+    font-size: medium;
+}
+.font-change:hover{
+    background-color: rgba(0, 90, 255, 1);
+    border: 0px solid rgba(0, 90, 255, 1);
+    transition: background-color 0.3s ease-in-out;
+}
+.weight-numbers{
+    font-weight: 750;
+    font-size: calc(1.425rem + 2.1vw);
+    
+    
+}
+.para-font{
+        font-size: x-large;
+        
+}
+@media (max-width: 992px){
+    .komak{
+        margin: 0 5rem;
+    }
+}
